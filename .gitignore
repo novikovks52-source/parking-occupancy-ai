@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.idea/
+.vscode/
+*.pt
+parking.db
+static/result.jpg
+reports/*.pdf
+reports/*.xlsx
+reports/*.csv
+.DS_Store
